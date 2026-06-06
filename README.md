@@ -17,6 +17,7 @@
     ├── 📁 __pycache__/      # Создается автоматически системой
     ├── 📄 __init__.py        # Инициализатор пакета, экспортирующий функцию запроса
     └── 📄 clientAPI.py      # Модуль для отправки HTTP-запросов и обработки кодов ответов
+```
 
 <img width="267" height="191" alt="image" src="https://github.com/user-attachments/assets/a1625439-c511-45d0-aac1-412993ec4d3f" />
 
