@@ -7,7 +7,9 @@
 
 <img width="144" height="34" alt="image" src="https://github.com/user-attachments/assets/a957c8b8-00f3-4356-8706-0cec877aaa99" />
 
+
 <img width="742" height="157" alt="image" src="https://github.com/user-attachments/assets/76494d9b-ca7c-4e70-a932-1a2ce8a9e8fd" />
+
 
 ```text
 📁 PYTHLABTIM4VAR6/
